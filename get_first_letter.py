@@ -4,8 +4,8 @@ import sys
 from typing import List
 from time import sleep
 
+# DEBUG = True
 DEBUG = False
-
 
 def load_lines(src_file_name: str) -> List[str]:
     with open(src_file_name, 'r') as f:
