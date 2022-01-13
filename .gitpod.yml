@@ -1,3 +1,4 @@
+
 image:
   file: .gitpod.Dockerfile
 
@@ -14,3 +15,6 @@ tasks:
     command: |
       /bin/bash /workspace/To_be_deleted/star_db.sh
       exit
+vscode:
+  extensions:
+    - ms-python.python

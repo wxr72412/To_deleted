@@ -11,5 +11,5 @@ USER gitpod
 #
 # More information: https://www.gitpod.io/docs/config-docker/
 
-RUN sudo apt-get update && sudo apt-get install -y iputils-ping vim netcat tldr
+RUN sudo apt-get update && sudo apt-get install -y iputils-ping vim netcat tldr parallel
 

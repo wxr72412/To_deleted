@@ -1,0 +1,12 @@
+python3 get_first_letter.py src_1.txt out_1 .txt
+python3 get_first_letter.py src_2.txt out_2 .txt
+python3 get_first_letter.py src_3.txt out_3 .txt
+python3 get_first_letter.py src_4.txt out_4 .txt
+python3 get_first_letter.py src_5.txt out_5 .txt
+python3 get_first_letter.py src_6.txt out_6 .txt
+python3 get_first_letter.py src_7.txt out_7 .txt
+python3 get_first_letter.py src_8.txt out_8 .txt
+python3 get_first_letter.py src_9.txt out_9 .txt
+python3 get_first_letter.py src_10.txt out_10.txt
+python3 get_first_letter.py src_11.txt out_11.txt
+python3 get_first_letter.py src_12.txt out_12.txt
