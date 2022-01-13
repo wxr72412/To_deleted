@@ -4,4 +4,6 @@ image:
 
 tasks:
   - name: "star our db and to some test"
-    command: bash start_db.sh
+    command: |
+      echo "第一行"
+      echo "第二行"
