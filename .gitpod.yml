@@ -1,2 +1,7 @@
 image:
   file: .gitpod.Dockerfile
+
+
+tasks:
+  - name: "star our db and to some test"
+    command: bash start_db.sh
